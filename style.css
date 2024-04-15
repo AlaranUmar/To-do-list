@@ -12,13 +12,13 @@ body {
 .WRAPPER {
     background: linear-gradient(
         135deg,
-        #8052ec,
-        #d161ff
+        #25a6f6,
+        #349f14
     );
     height: 100%;
 }
 .container {
-    border: 2px solid white;
+    border: 2px solid rgb(232, 194, 194);
     width: 40%;
     min-width: 450px;
     position: absolute;
